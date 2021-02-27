@@ -37,3 +37,4 @@ function changeEmail(new_email){
 function changeCity(new_city){
     user.city = new_city;
 }
+console.log("test")
